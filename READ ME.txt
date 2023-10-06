@@ -1,0 +1,13 @@
+Hi, Welcome to my project "Sentiment analysis on IMDB reviews".
+
+===============================================================================================================================================================================
+How to use:
+
+1) first create a virtual environment by using: 'python -m venv env'
+2) Then activate the environment using: 'env\Scripts\activate'.  If you can not activate the environment then enable running scripts in your pc.
+3) Now install the required Python packages using: 'pip install -r requirements.txt'.
+4) Then enter the file and folder paths in the .env file.
+5) now run the web_scrapping.py file and it will automatically extract the data and save it in the extracted files folder.
+6) now run the sentiment_analysis.py file and it will save the outputs in the output.xlsx.
+
+=============================================================================================================================================================================
